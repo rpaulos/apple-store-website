@@ -1,0 +1,22 @@
+{
+  "name": "apple-store-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "dev": "npx http-server . -p 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpaulos/apple-store-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rpaulos/apple-store-website/issues"
+  },
+  "homepage": "https://github.com/rpaulos/apple-store-website#readme"
+}
